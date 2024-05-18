@@ -3,7 +3,7 @@
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+First app built which leverages Open AI LLM
 
 ## Demo App
 
